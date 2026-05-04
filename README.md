@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر في الليالي نورك زاد
+> قلبي داب في العيون والوداد
+> أنت روحي وأنت نبض الفؤاد
+> وعدك هو السند في هذا الميعاد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
